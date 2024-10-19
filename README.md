@@ -111,7 +111,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
-MainActivity2.java
+```
+##  MainActivity2.java
+```
 package com.nextstep.exp;
 
 import android.os.Bundle;
@@ -135,8 +137,10 @@ public class MainActivity2 extends AppCompatActivity {
         startActivity(i);
     }
 }
-activity_main.xml:
-Implicit
+```
+## activity_main.xml:
+## Implicit
+```
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/main"
